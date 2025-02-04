@@ -1,6 +1,4 @@
-Here's your updated GitHub profile README with your name changed to **Dharmaseelan**:  
 
-```md
 <h1 align="center">
   <img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" />
   Hi there, I'm Dineshbabu M
@@ -45,11 +43,4 @@ Here's your updated GitHub profile README with your name changed to **Dharmaseel
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dharmaseelan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-```
 
-**Changes made:**
-- Replaced "Gunal Chandran" with "Dharmaseelan."
-- Updated GitHub username references from `gunal-chandran` to `dharmaseelan`.
-- Updated LinkedIn profile link to `dharmaseelan` (if your actual LinkedIn username differs, update it accordingly).  
-
-Let me know if you need any more modifications! 🚀
